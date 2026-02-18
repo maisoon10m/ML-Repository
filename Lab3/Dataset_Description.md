@@ -1,7 +1,7 @@
 # About Dataset
 "Supermarket Sales Data: This dataset records individual transactions from a supermarket chain in Myanmar, with detailed attributes for each sale. The data includes the following columns:
 
-Invoice ID: Unique identifier for each transaction.
+# Invoice ID: Unique identifier for each transaction.
 Branch: The branch location of the supermarket (e.g., Yangon, Naypyitaw, Mandalay).
 City: The city in which the supermarket branch is located.
 Customer Type: Indicates whether the customer is a 'Member' or 'Normal'.
