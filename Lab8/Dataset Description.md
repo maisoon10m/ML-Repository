@@ -8,8 +8,7 @@ This is a clean dataset with no missing values, making it suitable for a **binar
 ---
 
 ## Feature Descriptions
-Since the dataset is artificial, feature names are anonymized:
-
+The feature names in this dataset are artificial/randomly generated (XVPM, GWYH, TRAT, etc.) and don't represent anything real:  
 - **XVPM**: Numeric feature  
 - **GWYH**: Numeric feature  
 - **TRAT**: Numeric feature  
