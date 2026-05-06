@@ -60,7 +60,7 @@ Each sample has **4 numerical features** measured in centimeters:
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.7+
 - pandas
